@@ -1,0 +1,26 @@
+_repo: God-s-Green-CountryA-Novel-of-Canadian-Rural-Life_34700
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chapman, Ethel M.
+    birthdate: 1888
+    deathdate: 1976
+    gutenberg_agent_id: '37180'
+    url: http://www.gutenberg.org/2009/agents/37180
+description: ''
+gutenberg_issued: '2010-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Farm life -- Canada -- Fiction'
+title: 'God''s Green Country: A Novel of Canadian Rural Life'
+url: http://www.gutenberg.org/ebooks/34700
